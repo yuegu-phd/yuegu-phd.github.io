@@ -119,47 +119,47 @@ author:
   location         : "Houston, TX"
   email            : yue.gu@columbia.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "yue.gu@columbia.edu"
+    - label: "CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/files/Yue_Gu_CV.pdf"
+    - label: "Google Scholar"
+      icon: "fas fa-brands fa-google-scholar" 
+      url: "https://scholar.google.com/citations?user=Y1iIvY8AAAAJ&hl=en"
+    - label: "ORCiD"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/my-orcid?orcid=0000-0002-9642-0338"
+    - label: "ResearchGate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Yue_Gu36?ev=hdr_xprf"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/yue-gu688/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/yuegu-phd"
+
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Google Scholar"
+      icon: "fas fa-brands fa-google-scholar" 
+      url: "https://scholar.google.com/citations?user=Y1iIvY8AAAAJ&hl=en"
+    - label: "ORCiD"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/my-orcid?orcid=0000-0002-9642-0338"
+    - label: "ResearchGate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Yue_Gu36?ev=hdr_xprf"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/yue-gu688/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+      url: "https://github.com/yuegu-phd"
 
 
 # Reading Files
