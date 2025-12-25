@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yue Gu"
 description              : "Ph.D. at Texas Medical Center"
-url                      : "https://yuegu-phd.github.io" # the base hostname & protocol for your site
+url                      : "https://yuegu-phd.com" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yuegu-phd/yuegu-phd.github.io" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
