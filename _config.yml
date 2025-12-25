@@ -146,7 +146,7 @@ author:
 footer:
   links:
     - label: "Google Scholar"
-      icon: "fas fa-brands fa-google-scholar" 
+      icon: "ai ai-google-scholar" 
       url: "https://scholar.google.com/citations?user=Y1iIvY8AAAAJ&hl=en"
     - label: "ORCiD"
       icon: "fab fa-brands fa-orcid"
