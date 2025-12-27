@@ -124,7 +124,7 @@ author:
 #      url: "yue.gu@columbia.edu"
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/CV_YueGu.pdf"
+      url: "/assets/files/CV_YueGu_github.pdf"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar" 
       url: "https://scholar.google.com/citations?user=Y1iIvY8AAAAJ&hl=en"
