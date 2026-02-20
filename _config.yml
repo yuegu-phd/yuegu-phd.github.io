@@ -150,7 +150,7 @@ footer:
       url: "https://scholar.google.com/citations?user=Y1iIvY8AAAAJ&hl=en"
     - label: "ORCiD"
       icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0002-9642-0338"
+      url: "https://orcid.org/0000-0002-9642-0338"
     - label: "ResearchGate"
       icon: "fab fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Yue_Gu36?ev=hdr_xprf"
