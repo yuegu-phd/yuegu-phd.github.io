@@ -21,7 +21,7 @@ title                    : "Yue Gu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yue Gu"
-description              : "Ph.D. at Texas Medical Center"
+description              : "Ph.D. at Texas Medical Center, Researcher in Cancer Genomics"
 url                      : "https://yuegu-phd.com" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuegu-phd/yuegu-phd.github.io" # GitHub username/repo-name
