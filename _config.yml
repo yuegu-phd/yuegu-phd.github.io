@@ -115,16 +115,16 @@ analytics:
 author:
   name             : "Yue Gu"
   avatar           : "/assets/images/portrait_cover.jpg"
-  bio              : "Ph.D. at Texas Medical Center"
+  bio              : "Ph.D. at University of Texas Health Science Center"
   location         : "Houston, TX"
   email            : yue.gu@columbia.edu
   links:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
 #      url: "yue.gu@columbia.edu"
-    - label: "CV"
-      icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/CV_YueGu_github.pdf"
+#    - label: "CV"
+#      icon: "far fa-fw fa-file-pdf"
+#      url: "/assets/files/CV_YueGu_github.pdf"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap" 
       url: "https://scholar.google.com/citations?user=Y1iIvY8AAAAJ&hl=en"
